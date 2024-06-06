@@ -1,2 +1,6 @@
 .env
-
+vars = user-input, operations, other-key operations,numbers
+operations = +, -, *, /
+other-key operations = AC, DEL, %
+numbers = 0-9
+extra - '.'
